@@ -10,7 +10,7 @@ const OurGuarantee = () => {
       </span>
       <div className="container py-5">
         {" "}
-        <div className="row flex-column-reverse flex-md-row">
+        <div className="row flex-column-reverse flex-md-row align-items-center">
           <div className="col-12 col-md-7 pt-4 pt-sm-5 pt-md-0">
             <h2 className="ff_jost fw_semibold fs_4xl light_gray mb-0">
               Our Guarantee

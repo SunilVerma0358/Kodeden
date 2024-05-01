@@ -5,7 +5,7 @@ import whatVector from "../assets/svg/SoftwareEngVector.svg";
 import CommonBtn from "./Common/CommonBtn";
 const WhoAre = () => {
   return (
-    <div id="works" className="py-lg-5 position-relative">
+    <div id="works" className="pt-lg-5 pb-lg-4 position-relative">
       <span className="Whatvector">
         <img className="w-100" src={whatVector} alt="What We Vector" />
       </span>

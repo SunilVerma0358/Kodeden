@@ -74,7 +74,7 @@ const Header = () => {
       <p className="ff_jost fw-normal fs_sm gray mb-0 text-center pt-3">
         No Math or Science Background Needed
       </p>
-      <div className="d-flex justify-content-center pt-4 pt-lg-5">
+      <div className="d-flex justify-content-center pt-4 mt-lg-3">
         <CommonBtn />
       </div>
     </div>
