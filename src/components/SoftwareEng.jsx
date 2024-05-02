@@ -19,11 +19,11 @@ const SoftwareEng = () => {
               <span className="textBg common_Header"> 6-Month</span> Software
               Engineering Course?
             </h1>
-            <ul data-aos="zoom-in" className="mb-0 max_w_641">
+            <ul data-aos="zoom-in" className="mb-0 max_w_679">
               <li className="text_dot">
                 <a
                   href="#!"
-                  className="ff_jost fw-normal fs_sm dark_gray lh_5xl"
+                  className="ff_jost fw-normal fs_sm dark_gray lh_5xl max_w_679"
                 >
                   With 6-figure salaries, unlimited PTO, and the flexibility to
                   work anywhere in the world—(or
@@ -70,13 +70,14 @@ const SoftwareEng = () => {
                   Heck, most people don’t even know where to start.
                 </a>
               </li>
-              <li className="text_dot  max_w_641">
+              <li className="text_dot max_w_641">
                 <a
                   href="#!"
                   className="ff_jost fw-normal fs_sm dark_gray lh_5xl"
                 >
                   If that's you, you’ve been dreaming of a high-paying tech
-                  career but paralyzed when it comes time to take action.
+                  career but paralyzed when it{" "}
+                  <span className="d-lg-block">comes time to take action.</span>
                 </a>
               </li>
             </ul>
