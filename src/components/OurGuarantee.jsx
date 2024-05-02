@@ -15,7 +15,7 @@ const OurGuarantee = () => {
             <h2 className="ff_jost fw_semibold fs_4xl light_gray mb-0">
               Our Guarantee
             </h2>
-            <p className="ff_jost fw-normal fs_xl gray mb-0 pt-2">
+            <p className="ff_jost fw-normal fs_xl gray mb-0 pt-2 max_w_641">
               If you decide coding isn’t right for you within 15 days of
               starting the program, we’ll give you your money back.
             </p>
